@@ -16,7 +16,7 @@
 			border-radius: 5px;
 			box-shadow: 0 0 16px black;
 		}
-		@media (max-width: 320px)
+		@media (max-width: 300px)
 		{
 			#main
 			{
